@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nishanth
 
-### 🚀 Aspiring Biomedical Engineer & Content Creator
+### 🚀 Aspiring Computer Science Engineer.
 
 - 🌱 Currently learning: Web Development, AI Tools, Git & GitHub
 - 💻 Interested in: AI, Healthcare Technology, Content Creation
@@ -26,9 +26,9 @@
 - Social media growth strategies
 
 ## 📫 Connect With Me
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-profile
-- Portfolio: your-website-link
+- Email:nishanthengineer03@gmail.com
+- LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/nishanth-m-bbb11a325?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- Portfolio: nishanthengineer
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
